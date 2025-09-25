@@ -21,7 +21,7 @@ Expanded firmware analysis helper:
       REPORT.md
 
 Usage:
-    python3 firmware_finder_extended.py -i firmware.bin -o analysis_out
+    python3 fw_analysis.py -i firmware.bin -o analysis_out
 
 Requirements:
     - Python 3.8+ (3.10 recommended)
